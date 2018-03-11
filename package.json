@@ -13,11 +13,5 @@
   "devDependencies": {
     "concurrently": "2.2.0",
     "live-server": "https://github.com/acco/live-server/tarball/master"
-  },
-"scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test --env=jsdom",
-  "eject": "react-scripts eject"
-}
+  }
 }
